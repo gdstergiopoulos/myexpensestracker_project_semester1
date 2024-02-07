@@ -15,3 +15,11 @@ How to install?
     pip  install pillow
     pip install matplotlib
 4) Run MyExpensesTracker.py and everything should be like in the demo given above.
+
+The team: 
+Γιώργος Στεργιόπουλος: up1083861@ac.upatras.gr
+Παναγιώτης Χούσος: up1083869@ac.upatras.gr
+Μαριλένα Καραΐτση: up1084043@ac.upatras.gr
+Ορέστης Παπαθανασόπουλος: up1083867@ac.upatras.gr
+Βίκυ Κασουρίδου: up1083790@ac.upatras.gr
+Γιάννης Αναστασόπουλος: up1089185@ac.upatras.gr
